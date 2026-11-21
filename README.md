@@ -20,3 +20,17 @@
 我也探索 **AI 数字人**的交互与记忆表达，并将金融研究兴趣落实在本地 AI 投资研究工作台「研迹」。欢迎通过 [邮箱](mailto:2539490080@qq.com) 交流。 &#x20;
 
 🌱 我也持续参与开源协作，在 Agent 工程实践中打磨可靠性与工具链。
+
+## 🛠️ 技术与创作工具
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react&amp;theme=dark&amp;perline=4" alt="TypeScript, JavaScript, Python, React" />
+  <img src="https://skillicons.dev/icons?i=nodejs,vite,git,github&amp;theme=dark&amp;perline=4" alt="Node.js, Vite, Git, GitHub" />
+</p>
+<p align="center">
+  <img src="./tech-icons/FastAPI.svg" width="48" height="48" alt="FastAPI" title="FastAPI" />
+  <img src="./tech-icons/SQLite.svg" width="48" height="48" alt="SQLite" title="SQLite" />
+  <img src="./tech-icons/Electron.svg" width="48" height="48" alt="Electron" title="Electron" />
+  <img src="./3ds-max-icon.svg" width="48" height="48" alt="3ds Max" title="3ds Max" />
+  <img src="./tech-icons/Premiere.svg" width="48" height="48" alt="Premiere Pro" title="Premiere Pro" />
+</p>
