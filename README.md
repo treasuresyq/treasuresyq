@@ -13,6 +13,8 @@
 
 ## 👋 关于我
 
-你好，我是 **treasuresyq**，关注 **Agent Memory、Evals、RSI 与 Team Agents**。我希望 Agent 不只是会回答问题，而是能在真实任务中保留上下文、调用受控工具、接受评估，并留下可追溯的证据。
+你好，我是 **treasuresyq**，跟随前沿信息：[AI HOT](https://aihot.news/) ，正在邪修成为一名 AI领域中的 **Builder 和 Seller** 的结合体。
 
-我目前在探索可控、可审计的 Agent 工作环境：在 [miniclaw](https://github.com/treasuresyq/miniclaw) 中实践持久化记忆、Skills、MCP、Subagents 与任务调度；在 [Pi Native CRM](https://github.com/treasuresyq/Pi---AiNativeCrm) 中探索 Agent 在权限边界内操作 CRM 业务数据；在 [VisaFlow](https://github.com/treasuresyq/VisaFlow) 中把材料核验、证据追溯、人工审批与 MCP 模型复核串成完整流程。
+我关注 **Agent Memory、评测与自进化 Agent**：记忆如何可靠写入、召回和更新，失败如何通过 Trace / Eval 复现，反馈如何证明下一轮行动确实更好。我在个人项目和已合并的上游 PR 中实践记忆召回、离线评测与执行可靠性，也持续跟进 RSI 的研究进展。在项目[AI Native CRM](https://github.com/treasuresyq/Pi---AiNativeCrm) 与 [研迹 · ResearchTrail](https://github.com/treasuresyq/Trail) 中，我已接入并探索双 Harness 架构，通过比较不同执行路径，为后续研究基于评测反馈的递归自我改进做准备。近期，我也在研究 **CMA-ES 与离散组合搜索**，探索如何生成候选策略、利用评测反馈调整搜索，并验证每轮改进是否有效。 &#x20;
+
+我也探索 **AI 数字人**的交互与记忆表达，并将金融研究兴趣落实在本地 AI 投资研究工作台「研迹」。欢迎通过 [邮箱](mailto:2539490080@qq.com) 交流。 &#x20;
