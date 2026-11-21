@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.jpg" width="100%" alt="treasuresyq concert banner" />
+  <img src="./assets/banner-branded.png" width="100%" alt="treasuresyq concert banner with AI Agent Engineering branding" />
 </p>
 
 <p align="center">
