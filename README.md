@@ -34,3 +34,11 @@
   <img src="./3ds-max-icon.svg" width="48" height="48" alt="3ds Max" title="3ds Max" />
   <img src="./tech-icons/Premiere.svg" width="48" height="48" alt="Premiere Pro" title="Premiere Pro" />
 </p>
+
+## 项目实践
+
+- **[Miniclaw · 多数字员工工作台](https://github.com/treasuresyq/miniclaw)** — 自托管、Pi Agent 驱动的多渠道智能体工作台，将 Agent、Workspace、持久化记忆、Skills、MCP、Subagents、任务调度与运行历史组织在同一个可控环境中。
+- **[AI Native CRM · Agent 原生 CRM](https://github.com/treasuresyq/Pi---AiNativeCrm)** — 以真实 CRM 为状态空间的 Agent 工作台，让 Agent 在权限边界内读取客户、商机、知识与记忆，并通过受控工具推进业务，保留审批、执行记录与可追溯证据。
+- **[研迹 · ResearchTrail](https://github.com/treasuresyq/Trail)** — 本地优先的 AI 投资研究桌面工作台，连接行情、K 线与 Agent 深度研究，把来源、证据、投资逻辑与持续复核放在同一工作区。
+- **[VisaFlow · 签证审查应用](https://github.com/treasuresyq/VisaFlow)** — 面向签证材料审查与办理流程的桌面应用，将案件与材料版本、规则核验、证据追溯、模型复核和人工审批串成完整流程。
+- **[AI Digital Human](https://github.com/treasuresyq/cyber-girlfriend-16gb)** — 支持自定义角色的逐轮语音数字人原型，串联语音识别、DeepSeek 对话、语音合成与本地 LivePortrait / MuseTalk 口型和表情视频生成。
